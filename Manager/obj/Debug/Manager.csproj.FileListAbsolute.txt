@@ -1,0 +1,6 @@
+C:\Users\Petar\Desktop\PubSubEngine-main\Manager\bin\Debug\Manager.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\Manager\bin\Debug\Manager.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\Manager\obj\Debug\Manager.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\Manager\obj\Debug\Manager.pdb

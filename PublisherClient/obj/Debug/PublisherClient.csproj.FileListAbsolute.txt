@@ -1,0 +1,12 @@
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\PublisherClient.exe.config
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\PublisherClient.exe
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\PublisherClient.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\Contracts.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\Manager.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\Contracts.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\bin\Debug\Manager.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\obj\Debug\PublisherClient.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\obj\Debug\PublisherClient.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\obj\Debug\PublisherClient.csproj.CopyComplete
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\obj\Debug\PublisherClient.exe
+C:\Users\Petar\Desktop\PubSubEngine-main\PublisherClient\obj\Debug\PublisherClient.pdb

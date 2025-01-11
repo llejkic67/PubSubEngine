@@ -1,0 +1,15 @@
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.AssemblyInfo.cs
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\bin\Debug\net7.0\PubSubServices.deps.json
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\bin\Debug\net7.0\PubSubServices.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\bin\Debug\net7.0\PubSubServices.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\bin\Debug\net7.0\Contracts.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.csproj.CopyComplete
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\refint\PubSubServices.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\PubSubServices.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\PubSubServices\obj\Debug\net7.0\ref\PubSubServices.dll

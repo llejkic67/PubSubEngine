@@ -1,0 +1,6 @@
+C:\Users\Petar\Desktop\PubSubEngine-main\Contracts\bin\Debug\Contracts.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Petar\Desktop\PubSubEngine-main\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\PubSubEngine-main\Contracts\obj\Debug\Contracts.dll
+C:\Users\Petar\Desktop\PubSubEngine-main\Contracts\obj\Debug\Contracts.pdb
