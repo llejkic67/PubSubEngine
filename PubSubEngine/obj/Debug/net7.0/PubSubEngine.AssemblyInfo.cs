@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PubSubEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+144450c5d4c24b00427f7f5db11cb1efb544d4d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PubSubEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PubSubEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

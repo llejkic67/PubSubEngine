@@ -60,23 +60,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Petar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SRDJAN\\.nuget\\packages\\": {},
+    "D:\\VS 2022\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\PubSubEngine\\PubSubEngine.csproj",
+      "projectUniqueName": "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\PubSubEngine\\PubSubEngine.csproj",
       "projectName": "PubSubEngine",
-      "projectPath": "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\PubSubEngine\\PubSubEngine.csproj",
-      "packagesPath": "C:\\Users\\Petar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\PubSubEngine\\obj\\",
+      "projectPath": "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\PubSubEngine\\PubSubEngine.csproj",
+      "packagesPath": "C:\\Users\\SRDJAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\PubSubEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\VS 2022\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Petar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SRDJAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -91,14 +91,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\Contracts\\Contracts.csproj"
+            "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\Manager\\Manager.csproj": {
-              "projectPath": "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\Manager\\Manager.csproj"
+            "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\Manager\\Manager.csproj": {
+              "projectPath": "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\Manager\\Manager.csproj"
             },
-            "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\PubSubServices\\PubSubServices.csproj": {
-              "projectPath": "C:\\Users\\Petar\\Desktop\\PubSubEngine-main\\PubSubServices\\PubSubServices.csproj"
+            "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\PubSubServices\\PubSubServices.csproj": {
+              "projectPath": "C:\\Users\\SRDJAN\\Projects\\OIB Grupno\\PubSubEngine\\PubSubServices\\PubSubServices.csproj"
             }
           }
         }
@@ -107,7 +107,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net7.0": {
@@ -123,12 +129,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
